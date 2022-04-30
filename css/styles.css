@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     font-family: Georgia;
-    color: cornflowerblue;
+    color: rgb(27, 99, 231);
     padding: 0;
     margin: 0.5;
 }
@@ -43,4 +43,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+   background-color: #777; 
+   color: white;
+   text-align: center;
+   padding: 0.5em;
 }
